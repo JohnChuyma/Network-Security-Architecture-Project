@@ -1,0 +1,3 @@
+policy template used, amongst a few others used to then recreate my own:
+
+https://www.slideshare.net/slideshow/password-policy-template/54791136
