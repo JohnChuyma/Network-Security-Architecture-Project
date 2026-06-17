@@ -12,8 +12,20 @@ Designed and implemented a comprehensive network security architecture aligned w
 - Risk assessment and security evaluation worksheets
 - Virtual environment validation of proposed architecture
 
+## Key Documents
+- Network Security Architecture (main document)
+- Incident Response Plan
+- Access Control Policy
+- Risk Assessment Workbook
+
 ## Project Demonstration
-[Watch Demo Video](link-to-your-youtube)
+
+[Watch on YouTube](your-link)
+
+This video walks through:
+- Network architecture design
+- Security controls implemented
+- Virtual lab validation
 
 ## Repository Structure
 - `/document`
