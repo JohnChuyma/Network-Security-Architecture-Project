@@ -10,7 +10,7 @@ This project goes beyond theory by combining risk assessment, secure network des
 - 👤 Role-Based Access Control (RBAC) implementation with least-privilege implementation
 - 🚨 Incident Response Plan and response documentation
 - 📑 Security policy development (Access Control, AUP, Password Policy)
-- Risk assessment and security evaluation worksheets
+- 📊 Risk assessment and security evaluation worksheets
 - 🧪 Virtual environment validation of proposed architecture
 
 ## Key Documents
