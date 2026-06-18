@@ -1,22 +1,23 @@
 # Enterprise Network Security Architecture Project
 
 ## Overview
-Designed and implemented a comprehensive network security architecture aligned with PCI-DSS and NIST standards. This project includes security policies, incident response planning, risk assessments, and validation in a virtual lab environment.
+Designed a practical network security architecture for small to mid-sized businesses, focused on reducing real-world risk and aligning with PCI-DSS requirements and NIST-based security practices.
+This project goes beyond theory by combining risk assessment, secure network design, policy development, and lab validation to demonstrate how a business can implement security controls from the ground up.
 
 ## Key Features
-- 40+ page network security architecture document
-- PCI-DSS and NIST-aligned security controls
-- Role-Based Access Control (RBAC) implementation
-- Incident Response Plan and response documentation
-- Security policies (Access Control, AUP, Password Policy)
+- 📄 40+ page network security architecture document
+- 🔐 PCI-DSS–aligned controls with mapped requirements across systems and processes
+- 👤 Role-Based Access Control (RBAC) implementation with least-privilege implementation
+- 🚨 Incident Response Plan and response documentation
+- 📑 Security policy development (Access Control, AUP, Password Policy)
 - Risk assessment and security evaluation worksheets
-- Virtual environment validation of proposed architecture
+- 🧪 Virtual environment validation of proposed architecture
 
 ## Key Documents
 - Network Security Architecture (main document)
 - Incident Response Plan
-- Access Control Policy
-- Risk Assessment Workbook
+- Policies
+- Assessment Worksheets
 
 ## Project Demonstration
 
@@ -28,25 +29,29 @@ This video walks through:
 - Virtual lab validation
 
 ## Repository Structure
-- `/document`
-  - Full security architecture documentation
+- `/Architecture Documents`
+  - Network security architecture Guide
   - Incident response planning
   - Security policies
-- `/documentation`
-  - Implementation details and lab validation
-  - Virtual environment setup and progress
+  - Assessment workseets
+- `/Lab Validation`
+  - Access Controls
+  - VM progress
+  - Virtual environment
 - `/website`
   - HTML/CSS/JS dashboard showcasing project
 
 ## Technologies & Concepts
-- Network Segmentation
-- RBAC (Role-Based Access Control)
-- SIEM/Security Monitoring Concepts
-- PCI-DSS Compliance
-- NIST Security Framework
+- Network Segmentation (VLAN design for Admin, Corporate, Guest, IoT, POS)
+- Firewall rule design using deny-by-default model
+- Cardholder Data Environment (CDE) isolation and scope reduction
+- Centralized identity management (Active Directory concepts)
+- Patch management and vulnerability mitigation processes
+- Logging, monitoring, and incident response lifecycle
 
 ## What I Learned
 - Designing enterprise security architectures
 - Aligning systems with compliance standards
 - Implementing least privilege models
 - Validating security controls in a lab environment
+- Most business risk comes from basic weaknesses (access control, patching, segmentation)
