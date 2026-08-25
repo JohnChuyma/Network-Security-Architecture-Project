@@ -2,16 +2,16 @@
 
 ## Overview
 Designed a practical network security architecture for small to mid-sized businesses, aligning with PCI-DSS requirements.
-This project goes beyond theory by combining risk assessment, secure network design, policy development, and lab validation to demonstrate how a business can implement security controls from the ground up.
+This project combines risk assessment, secure network design, policy development, and lab validation to demonstrate how a business can implement security controls from the ground up.
 
 ## Key Features
-- 📄 40+ page network security architecture document
-- 🔐 PCI-DSS–aligned controls with mapped requirements across systems and processes
-- 👤 Role-Based Access Control (RBAC) implementation with least-privilege implementation
-- 🚨 Incident Response Plan and response documentation
-- 📑 Security policy development (Access Control, AUP, Password Policy)
-- 📊 Risk assessment and security evaluation worksheets
-- 🧪 Virtual environment validation of proposed architecture
+- 40+ page network security architecture document
+- PCI-DSS–aligned controls with mapped requirements across systems and processes
+- Role-Based Access Control (RBAC) implementation with least-privilege implementation
+- Incident Response Plan and response documentation
+- Security policy development (Access Control, AUP, Password Policy)
+- Risk assessment and security evaluation worksheets
+- Virtual environment validation of proposed architecture
 
 ## Key Documents
 - Network Security Architecture (main document)
@@ -54,4 +54,3 @@ This video walks through:
 - Aligning systems with compliance standards
 - Implementing least privilege models
 - Validating security controls in a lab environment
-- Most business risk comes from basic weaknesses (access control, patching, segmentation)
