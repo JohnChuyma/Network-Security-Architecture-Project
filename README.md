@@ -1,7 +1,7 @@
 # Enterprise Network Security Architecture Project
 
 ## Overview
-Designed a practical network security architecture for small to mid-sized businesses, focused on reducing real-world risk and aligning with PCI-DSS requirements and NIST-based security practices.
+Designed a practical network security architecture for small to mid-sized businesses, aligning with PCI-DSS requirements.
 This project goes beyond theory by combining risk assessment, secure network design, policy development, and lab validation to demonstrate how a business can implement security controls from the ground up.
 
 ## Key Features
